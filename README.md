@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a data analyst/data engineer with a bachelors degree in Computer Science and a masters degreee in Data Science.
+I am a data analyst/data engineer with a bachelors in Computer Science and a masters degree in Data Science.
 
 I’m currently working on [lubrilog](https://github.com/arrismo/lubrilog) available on CRAN!
 

@@ -6,4 +6,3 @@ I’m currently working on [lubrilog](https://github.com/arrismo/lubrilog) avail
 
 Currently analyzing surgical outcomes at Memorial Sloan Kettering Cancer Center using R and SQL.
 
-Outside of work, I enjoy building data pipelines!

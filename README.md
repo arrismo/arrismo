@@ -4,5 +4,3 @@ I am a data analyst/data engineer with a bachelors in Computer Science and a mas
 
 I’m currently working on [lubrilog](https://github.com/arrismo/lubrilog) available on CRAN!
 
-Currently analyzing surgical outcomes at Memorial Sloan Kettering Cancer Center using R and SQL.
-

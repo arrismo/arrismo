@@ -25,7 +25,7 @@ Here are some of my published projects — feel free to explore and ⭐ them if 
   Command-line tool to slice large CSV files in Rust  
   ![crates.io](https://img.shields.io/crates/v/csv-slice) ![crates.io downloads](https://img.shields.io/crates/d/csv-slice)
 
-- **[langtype](https://github.com/yourusername/langtype)**  
+- **[langtype](https://langtype.vercel.app/)**  
   Fun typing speed and accuracy test  
   🎯
 

@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Here are some of my published projects,feel free to explore and ⭐ them if you find them useful!
+Here are some of my published projects,feel free to explore and ⭐ them 
+
+Check out more of my work here [Norte Labs](https://github.com/nortelabs)
 
 ---
 
@@ -18,12 +20,9 @@ Here are some of my published projects,feel free to explore and ⭐ them if you 
 
 - **[langtype](https://langtype.vercel.app/)**  
   Fun typing speed and accuracy test  
-  🎯
 
 - **[mednotegen](https://pypi.org/project/mednotegen/)**  
   AI-assisted medical note generator for clinicians  
   ![PyPI](https://img.shields.io/pypi/v/mednotegen)  ![PePy Downloads](https://static.pepy.tech/badge/mednotegen)
-
-
 ---
 
